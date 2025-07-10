@@ -12,7 +12,7 @@ Repositori ini berisi jawaban Ujian Akhir Semester (UAS) mata kuliah Pemrograman
 Proyek ini bertujuan untuk menganalisis dan mengimplementasikan desain berorientasi objek yang tersedia dalam bentuk diagram UML ke dalam kode program. Selain itu, proyek ini juga melibatkan perbaikan diagram UML dan kode untuk menerapkan pola desain **Factory Method**.
 
 **Skenario Singkat:**
-FC Cakrawala adalah klub sepak bola binaan Universitas Cakrawala yang memiliki satu tim U-23 bernama FC Cakrawala Muda.Tim ini terdiri dari seorang Head Coach, seorang Assistant Coach, dan 15 mahasiswa Universitas Cakrawala sebagai Player utama].
+FC Cakrawala adalah klub sepak bola binaan Universitas Cakrawala yang memiliki satu tim U-23 bernama FC Cakrawala Muda.Tim ini terdiri dari seorang Head Coach, seorang Assistant Coach, dan 15 mahasiswa Universitas Cakrawala sebagai Player utama.
 
 ---
 
