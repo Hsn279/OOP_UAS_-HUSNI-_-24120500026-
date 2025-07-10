@@ -32,7 +32,7 @@ File ini berisi diagram UML yang telah  dicoba diperbaiki, khususnya pada relasi
 
 ### 3. `OOP_UAS3_HUSNI_24120500026.cpp`
 
-File ini adalah versi modifikasi dari kode `OOP_UAS1_<Nama_Anda>_<NIM_Anda>.cpp` yang telah disesuaikan dengan diagram UML yang baru (mengimplementasikan pola desain Factory Method) dari soal nomor 2.
+File ini adalah versi modifikasi dari kode `OOP_UAS1_HUSNI_24120500026.cpp` yang telah disesuaikan dengan diagram UML yang baru (mengimplementasikan pola desain Factory Method) dari soal nomor 2.
 
 * **Bahasa Pemrograman:** C++
 
